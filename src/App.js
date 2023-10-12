@@ -30,7 +30,7 @@ function App() {
       {isDesktop ? (
         <p>You're on laptop or desktop 💻</p>
       ) : (
-        <p>You're on mobile or tablet</p>
+        <p>You're on mobile or tablet 📱</p>
       )}
     </div>
   );
